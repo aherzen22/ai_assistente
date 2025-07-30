@@ -1,6 +1,7 @@
 # ИИ-ассистент для Онлайн школы русского языка
 Ссылка на проект
 https://t.me/TestScuolaonlineRU_bot
+
 <img width="1041" height="567" alt="image" src="https://github.com/user-attachments/assets/7165a27f-7e1a-4872-9d8a-2d754d5dc44b" />
 
 ## Описание проекта
